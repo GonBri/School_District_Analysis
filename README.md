@@ -3,7 +3,7 @@ School_District_Analysis
 # Overview of the school district analysis: 
  * The purpuse of this analysis is review the data replacing the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. After the data is replaced we need to repeat the school district analysis that you we did in this module and write up a report to describe how these changes affected the overall analysis.
 
-# Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+# Results: 
 
   * How is the district summary affected?
   District Summary from Module
