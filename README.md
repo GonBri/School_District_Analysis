@@ -45,27 +45,27 @@ School_District_Analysis
   
     - Scores by school size
     
-    <img width="798" alt="Screen Shot 2021-10-10 at 10 42 44 AM" src="https://user-images.githubusercontent.com/90288638/136705411-14792b62-b6dc-4752-9b02-ff5c31ed0870.png">
+   <img width="798" alt="Screen Shot 2021-10-10 at 10 42 44 AM" src="https://user-images.githubusercontent.com/90288638/136705411-14792b62-b6dc-4752-9b02-ff5c31ed0870.png"> 
 
 
     
     - Scores by school type
     
-    <img width="749" alt="Screen Shot 2021-10-10 at 10 43 27 AM" src="https://user-images.githubusercontent.com/90288638/136705430-643eb7e7-1170-489b-ba12-8d5bdc4930d3.png">
+   <img width="749" alt="Screen Shot 2021-10-10 at 10 43 27 AM" src="https://user-images.githubusercontent.com/90288638/136705430-643eb7e7-1170-489b-ba12-8d5bdc4930d3.png">
 
   
 # Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
     1. Student Data
     
-    <img width="645" alt="Screen Shot 2021-10-10 at 10 56 20 AM" src="https://user-images.githubusercontent.com/90288638/136705765-2343bb2f-7d0c-4364-a629-ecdcdff253e6.png">
+  <img width="645" alt="Screen Shot 2021-10-10 at 10 56 20 AM" src="https://user-images.githubusercontent.com/90288638/136705765-2343bb2f-7d0c-4364-a629-ecdcdff253e6.png">
 
     2. Math Scores by Grade
     
-    <img width="331" alt="Screen Shot 2021-10-10 at 10 57 51 AM" src="https://user-images.githubusercontent.com/90288638/136705814-25fc8963-9590-49aa-8547-dc271956c72b.png">
+  <img width="331" alt="Screen Shot 2021-10-10 at 10 57 51 AM" src="https://user-images.githubusercontent.com/90288638/136705814-25fc8963-9590-49aa-8547-dc271956c72b.png">
 
     3. Reading Scores by Grade
     
-    <img width="339" alt="Screen Shot 2021-10-10 at 10 58 34 AM" src="https://user-images.githubusercontent.com/90288638/136705833-8450ee0f-776e-48b2-b265-b698d8de5846.png">
+  <img width="339" alt="Screen Shot 2021-10-10 at 10 58 34 AM" src="https://user-images.githubusercontent.com/90288638/136705833-8450ee0f-776e-48b2-b265-b698d8de5846.png">
 
     
  
