@@ -6,8 +6,6 @@ School_District_Analysis
 # Results: 
 
   * How is the district summary affected?
-  District Summary from Module
-  <img width="910" alt="Screen Shot 2021-10-10 at 8 33 26 AM" src="https://user-images.githubusercontent.com/90288638/136700224-a4c99666-bc61-4870-bf79-a4ef32efc8ff.png">
   
   District Summary from Challenge
 <img width="942" alt="Screen Shot 2021-10-10 at 8 31 11 AM" src="https://user-images.githubusercontent.com/90288638/136700189-10925163-a130-4d27-9262-623843d3d448.png">
