@@ -14,8 +14,11 @@ School_District_Analysis
 
   * How is the school summary affected?
 
+   School Summary from Module
+
 <img width="1024" alt="Screen Shot 2021-10-10 at 9 08 40 AM" src="https://user-images.githubusercontent.com/90288638/136701899-42a4486f-cf27-4de6-9548-8ba6ddeebf73.png">
 
+   School Summary from Challege
   
 <img width="1018" alt="Screen Shot 2021-10-10 at 9 09 23 AM" src="https://user-images.githubusercontent.com/90288638/136701832-82cc2e80-8ede-486d-b6e3-56b05bf1cbc4.png">
 
