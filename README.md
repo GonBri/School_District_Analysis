@@ -7,7 +7,8 @@ School_District_Analysis
 
   * How is the district summary affected?
   
-  District Summary from Challenge
+    District Summary from Challenge
+  
 <img width="942" alt="Screen Shot 2021-10-10 at 8 31 11 AM" src="https://user-images.githubusercontent.com/90288638/136700189-10925163-a130-4d27-9262-623843d3d448.png">
  
 
